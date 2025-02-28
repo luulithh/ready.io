@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@telegram-apps/sdk": "^3.5.1",
+    "telegraf": "^4.16.3"
+  }
+}
